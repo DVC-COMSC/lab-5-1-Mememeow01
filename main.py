@@ -1,19 +1,13 @@
 def getinput():
-    # ******************************
-    # Make your Code
-    # ******************************
+    return int(input('Enter a Number: '))
 
 
 def getsum(v1, v2):
-    # ******************************
-    # Make your Code
-    # ******************************
+    return v1 + v2
 
 
 def printval(v1, v2, total):
-    # ******************************
-    # Make your Code
-    # ******************************
+    print(f"the result is: {total}")
 
 
 def main():
